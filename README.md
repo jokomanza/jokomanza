@@ -1,9 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://www.google.com">Joko Supriyanto</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
-<!--
-**jokomanza/jokomanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/jokomanza"><img src="https://github-readme-stats.vercel.app/api?username=jokomanza&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
+  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working on Android Development, Anime / Manga, Game Dev, and Content Creation.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
