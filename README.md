@@ -24,3 +24,5 @@
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: ...
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
