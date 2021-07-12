@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
 Kotlin       4 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.42 % 
 Java         3 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
