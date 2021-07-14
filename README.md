@@ -26,12 +26,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
-
-Kotlin       2 hrs 26 mins   ███████████░░░░░░░░░░░░░░   44.40 % 
-XML          1 hr 57 mins    █████████░░░░░░░░░░░░░░░░   35.67 % 
-Java         1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
