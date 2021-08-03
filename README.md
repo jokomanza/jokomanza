@@ -26,6 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 July, 2021 - 02 August, 2021
+
+Kotlin       7 mins          █████████████░░░░░░░░░░░░   52.54 % 
+Git Config   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.27 % 
+XML          2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 <!--END_SECTION:waka-->
