@@ -26,10 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
+Week: 29 July, 2021 - 04 August, 2021
 
-Kotlin       7 mins          ██████████▒░░░░░░░░░░░░░░   40.73 % 
-Git Config   4 mins          ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-XML          4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
+XML          3 hrs 57 mins   ██████████████████████▒░░   89.84 % 
+Java         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Kotlin       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
