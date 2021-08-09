@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 XML          5 hrs 40 mins   ███████████████████████▒░   92.69 % 
 Java         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
