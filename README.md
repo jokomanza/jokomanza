@@ -26,10 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 05 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
-Kotlin       1 hr 22 mins    ██████████████████████▒░░   89.14 % 
-XML          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Kotlin       6 hrs 19 mins   ████████████████████████░   96.02 % 
+XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Groovy       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
