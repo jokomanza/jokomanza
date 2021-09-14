@@ -26,10 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
-Kotlin   27 hrs 32 mins  ████████████████████████▓   98.16 % 
-Groovy   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-XML      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Kotlin   23 hrs 42 mins  ████████████████████████▓   98.10 % 
+Groovy   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+XML      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
