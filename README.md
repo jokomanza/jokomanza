@@ -26,12 +26,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-Java         13 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.07 % 
-Kotlin       6 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-XML          3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Groovy       2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Java         11 hrs 34 mins  ████████████░░░░░░░░░░░░░   48.12 % 
+Kotlin       6 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
+XML          3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Groovy       2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
