@@ -26,10 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
+Week: 23 September, 2021 - 29 September, 2021
 
-Java         7 hrs           ████████████████████▓░░░░   82.13 % 
-XML          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Groovy       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Java         2 hrs 32 mins   ███████████████▓░░░░░░░░░   62.28 % 
+XML          53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
+Groovy       37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
