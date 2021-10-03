@@ -26,12 +26,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2021 - 01 October, 2021
+Week: 26 September, 2021 - 02 October, 2021
 
-Java         8 hrs 9 mins    ███████████████████▓░░░░░   79.01 % 
-XML          1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Groovy       46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Prolog       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Java         10 hrs 37 mins  ████████████████▓░░░░░░░░   66.09 % 
+Kotlin       2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+XML          1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Groovy       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
