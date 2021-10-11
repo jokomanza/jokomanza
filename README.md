@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 Java         15 hrs 15 mins  ████████████████▓░░░░░░░░   66.15 % 
 Kotlin       5 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.69 % 
