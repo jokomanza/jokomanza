@@ -26,11 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
-Java     20 hrs 56 mins  ███████████████████▒░░░░░   77.81 % 
-XML      5 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Groovy   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Kotlin   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Java     20 hrs 26 mins  ███████████████████░░░░░░   75.43 % 
+XML      5 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 % 
+Groovy   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
