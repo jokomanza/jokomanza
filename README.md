@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
 Java     21 hrs 47 mins  ██████████████████▒░░░░░░   73.68 % 
 XML      6 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 % 
