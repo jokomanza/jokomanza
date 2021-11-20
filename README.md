@@ -26,11 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
-Kotlin   3 hrs 47 mins   ████████████████░░░░░░░░░   64.56 % 
-XML      1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Java     44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Groovy   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Kotlin   3 hrs 40 mins   █████████████████░░░░░░░░   68.65 % 
+XML      1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Java     38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
 <!--END_SECTION:waka-->
