@@ -26,6 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 November, 2021 - 22 November, 2021
+
+Kotlin   5 hrs 45 mins   ██████████████████████▓░░   90.15 % 
+XML      32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Groovy   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
