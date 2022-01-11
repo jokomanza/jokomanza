@@ -26,11 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
-Java                   27 hrs 52 mins  ███████████████████░░░░░░   75.91 % 
-Groovy                 4 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-XML                    4 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Properties             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Java     34 hrs 28 mins  █████████████████████▒░░░   85.61 % 
+XML      3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Groovy   2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
