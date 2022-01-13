@@ -26,10 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-Java     39 hrs 15 mins  █████████████████████▓░░░   86.62 % 
-XML      3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Groovy   2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Java                   40 hrs 15 mins  ██████████████████████▓░░   90.64 % 
+XML                    2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Groovy                 1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Shrinker Config File   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
