@@ -26,11 +26,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-Java                   12 hrs 26 mins  ██████████████████████▓░░   90.95 % 
-Groovy                 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-XML                    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Shrinker Config File   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Java         7 hrs 14 mins   ███████████████▓░░░░░░░░░   62.86 % 
+Kotlin       2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Groovy       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+XML          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Properties   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 <!--END_SECTION:waka-->
