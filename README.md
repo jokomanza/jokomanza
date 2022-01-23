@@ -26,12 +26,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
-Kotlin           19 hrs 56 mins  ███████████████████▓░░░░░   78.20 % 
-XML              3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Groovy           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Properties       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Kotlin       23 hrs 39 mins  ███████████████████▒░░░░░   77.52 % 
+XML          4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Groovy       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Java         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
