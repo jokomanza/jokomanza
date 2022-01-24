@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
 Kotlin       23 hrs 39 mins  ███████████████████▒░░░░░   77.52 % 
 XML          4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
