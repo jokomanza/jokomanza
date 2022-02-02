@@ -26,11 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 26 January, 2022 - 01 February, 2022
 
-Kotlin   17 hrs 36 mins  ████████████████████▒░░░░   80.95 % 
-XML      2 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Groovy   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Kotlin   9 hrs 36 mins   █████████████████████▓░░░   86.93 % 
+XML      50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Groovy   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
