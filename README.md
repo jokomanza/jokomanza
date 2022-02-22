@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 Kotlin       15 hrs 35 mins  ███████████████████▒░░░░░   77.83 % 
 Java         2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
