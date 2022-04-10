@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
 Kotlin           38 mins         ████████████▓░░░░░░░░░░░░   50.81 %
 Groovy           21 mins         ███████▒░░░░░░░░░░░░░░░░░   28.73 %
