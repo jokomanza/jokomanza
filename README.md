@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 April 2022 - To: 23 April 2022
+
+Groovy   22 mins         ████████████▒░░░░░░░░░░░░   48.70 %
+Java     14 mins         ████████░░░░░░░░░░░░░░░░░   31.78 %
+XML      9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.52 %
 ```
 
 <!--END_SECTION:waka-->
