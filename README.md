@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
 Groovy   22 mins         ████████████▒░░░░░░░░░░░░   48.70 %
 Java     14 mins         ████████░░░░░░░░░░░░░░░░░   31.78 %
