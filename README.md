@@ -27,11 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2022 - To: 29 April 2022
+From: 23 April 2022 - To: 30 April 2022
 
-Java     1 hr 53 mins    ████████████████████▒░░░░   80.82 %
-Groovy   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-XML      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Java   1 hr 44 mins    ████████████████████████▓   98.75 %
+XML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
