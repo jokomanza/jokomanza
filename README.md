@@ -27,10 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
-
-Java   43 mins         ████████████████████████▒   97.08 %
-XML    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
