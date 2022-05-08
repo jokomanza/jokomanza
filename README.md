@@ -27,7 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 April 2022 - To: 07 May 2022
+
+Java   23 mins         ██████████████████████▒░░   89.44 %
+XML    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
 ```
 
 <!--END_SECTION:waka-->
