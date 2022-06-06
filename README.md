@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
 Kotlin           25 hrs 56 mins  ████████████████████░░░░░   80.20 %
 XML              4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
