@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 Kotlin           1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.23 %
 Groovy           1 hr 20 mins    ███████▓░░░░░░░░░░░░░░░░░   30.23 %
