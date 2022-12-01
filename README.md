@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-PHP              3 hrs 57 mins   ████████████████████████▓   99.24 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP              1 hr 34 mins    ████████████████████████▓   98.11 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
