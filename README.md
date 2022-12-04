@@ -27,13 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-PHP              2 hrs 21 mins   ████████████████████████▓   98.10 %
-Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP    1 hr 30 mins    ████████████████████████▓   98.99 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
