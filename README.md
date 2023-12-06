@@ -15,11 +15,10 @@
 
 <p align="center">❤ I'm currently working on Android Development</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java, C#, .Net Framework, Asp.Net
+- 🔭 I’m currently working on Android Development
+- 👯 I’m looking to collaborate on Android Projects
+- 🤔 I’m looking for help with Spring Framework
+- 💬 Ask me about Kotlin and Java
 - 📫 How to reach me: email me at Jokomanza@gmail.com
 - 😄 Pronouns: He | Him
 
